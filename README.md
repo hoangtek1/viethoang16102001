@@ -1,19 +1,19 @@
-<h1 align="center"> Hi 👋, I 'm Tran Do Viet Hoang</h1>
+<h1 align="center">Hi 👋, I'm Tran Do Viet Hoang</h1>
 
-      <p align = "center">
-            < ahref="" target="_blank">
-              <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-             </a>
-             <a href="https://www.facebook.com/profile.php?id=100007991108519" alt = "Facebook">
-              <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target = "_blank"/>
-             </a>
-             <a href="https://github.com/viethoang16102001" alt = "Github">
-              <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-             </a>
-             <a href="viethoangg1610@gmail.com" alt="Email">
-              <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-             </a>
-       </p>
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100007991108519" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/viethoang16102001" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="viethoangg1610@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
 
 - 💒 My countryside is Nghe An, Vietnam and i'm living in Ho Chi Minh City
    
